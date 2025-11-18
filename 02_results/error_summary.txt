@@ -1,0 +1,11 @@
+[18/Nov/2025:14:59:31 +0100] ERROR 403 from IP: 10.0.0.5 for /api/v1/data
+[18/Nov/2025:15:30:31 +0100] ERROR 403 from IP: 10.0.0.5 for /admin
+[18/Nov/2025:15:18:31 +0100] ERROR 403 from IP: 203.0.113.1 for /
+[18/Nov/2025:15:12:31 +0100] ERROR 503 from IP: 192.168.1.1 for /api/v1/data
+[18/Nov/2025:15:50:31 +0100] ERROR 401 from IP: 203.0.113.1 for /login
+[18/Nov/2025:15:30:31 +0100] ERROR 403 from IP: 172.16.254.1 for /login
+[18/Nov/2025:15:30:31 +0100] ERROR 403 from IP: 172.16.254.1 for /
+[18/Nov/2025:15:21:31 +0100] ERROR 404 from IP: 192.168.1.1 for /login
+[18/Nov/2025:15:23:31 +0100] ERROR 403 from IP: 203.0.113.1 for /api/v1/data
+[18/Nov/2025:15:31:31 +0100] ERROR 404 from IP: 172.16.254.1 for /images/logo.png
+[18/Nov/2025:15:09:31 +0100] ERROR 401 from IP: 10.0.0.5 for /images/logo.png
