@@ -1,0 +1,6 @@
+_simple_log_parser
+├── 00_logs
+├── 01_scripts
+├── 02_results
+├── README.md
+└── structure_tree.txt
